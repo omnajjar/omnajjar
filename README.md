@@ -29,7 +29,16 @@
   </thead>
 </table>
 
-<a href="https://wakatime.com/@omnajjar"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=omnajjar&layout=compact&theme=react&langs_count=6" /></a>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <a href="https://wakatime.com/@omnajjar"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=omnajjar&layout=compact&theme=react"/></a>
+      </td>
+    </tr>
+  </thead>
+</table>
+
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-najjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osama.najjar.m@gmail.com)
